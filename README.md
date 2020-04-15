@@ -5,7 +5,7 @@
     <head>
       
       <title>
-         My Bigenners lesson
+         My Beginner's lesson
       </title>
       
     </head>
